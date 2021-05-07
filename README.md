@@ -1,5 +1,5 @@
 # United Nations Voting Data
-This repository is part of a machine learning project conducted by Ali Cherchar, undergraduate student at the University of Virginia (UVA), and Tianxi Li, assistant professor in the department of Statistics at UVA.
+This repository is part of a machine learning research project conducted by Ali Cherchar, undergraduate student at the University of Virginia (UVA), and Tianxi Li, assistant professor in the department of statistics at UVA. This research project was made possible thanks to the Undergraduate Student Opportunities in Academic Research, also known as the USOAR program at UVA.
 
 # Dataset
 The original dataset is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LEJUQZ) and contains roll-call votes in the United Nations General Assembly from 1946 to 2019 (sessions 1 - 75).
