@@ -1,4 +1,4 @@
-# UN_Voting_Data
+# United Nations Voting Data
 This repository is part of a machine learning project conducted by Ali Cherchar, undergraduate student at the University of Virginia (UVA), and Tianxi Li, assistant professor in the department of Statistics at UVA.
 
 # Dataset
